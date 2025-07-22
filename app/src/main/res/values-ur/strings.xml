@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen title -->
+    <string name="change_language">🌐 زبان تبدیل کریں</string>
+
+    <!-- Profile section -->
+    <string name="profile">پروفائل</string>
+    <string name="username">صارف کا نام</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+
+
+
+</resources>

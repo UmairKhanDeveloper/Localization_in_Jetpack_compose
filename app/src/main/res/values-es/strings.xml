@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Localization_in_Jetpack_compose</string>
+
+    <!-- Screen title -->
+    <string name="change_language">🌐 Cambiar idioma</string>
+
+    <!-- Profile section -->
+    <string name="profile" translatable="false">Profile</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+</resources>

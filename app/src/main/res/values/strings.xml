@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Localization_in_Jetpack_compose</string>
+
+    <!-- Screen title -->
+    <string name="change_language">🌐 Changer la langue</string>
+
+    <!-- Profile section -->
+    <string name="profile" translatable="false">Profile</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+
+    <!-- Profile values -->
+    <string name="name_value" translatable="false">Umair Khan</string>
+    <string name="email_value" translatable="false">uk236393@gmail.com</string>
+    <string name="password_value" translatable="false">umairkhan4210047</string>
+</resources>
