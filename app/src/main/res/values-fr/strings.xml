@@ -12,6 +12,20 @@
     <string name="email">E-mail</string>
     <string name="password">Mot de passe</string>
 
+    <string name="Localization_value">Localisation</string>
+    <string name="Welcome_value">Bienvenue</string>
+    <string name="Please_select_your_preferred_language">Veuillez sélectionner votre langue préférée :</string>
+    <string name="Apply_Language">Appliquer la langue</string>
+
+    <string name="welcome_back">Bienvenue</string>
+    <string name="sign_in_continue">Connectez-vous pour continuer</string>
+    <string name="email1">E-mail</string>
+    <string name="password1">Mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="select_language">Choisir la langue</string>
+    <string name="dont_have_account">Vous n\'avez pas de compte ?</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="ok">OK</string>
 
 
 </resources>

@@ -9,6 +9,20 @@
     <string name="email">ای میل</string>
     <string name="password">پاس ورڈ</string>
 
+    <string name="Localization_value">لوکلائزیشن</string>
+    <string name="Welcome_value">خوش آمدید</string>
+    <string name="Please_select_your_preferred_language">براہ کرم اپنی پسندیدہ زبان منتخب کریں:</string>
+    <string name="Apply_Language">زبان لاگو کریں</string>
+
+    <string name="welcome_back">خوش آمدید</string>
+    <string name="sign_in_continue">جاری رکھنے کے لیے سائن ان کریں</string>
+    <string name="email1">ای میل</string>
+    <string name="password1">پاس ورڈ</string>
+    <string name="forgot_password">پاس ورڈ بھول گئے؟</string>
+    <string name="select_language">زبان منتخب کریں</string>
+    <string name="dont_have_account">اکاؤنٹ نہیں ہے؟</string>
+    <string name="sign_up">رجسٹر کریں</string>
+    <string name="ok">ٹھیک ہے</string>
 
 
 </resources>

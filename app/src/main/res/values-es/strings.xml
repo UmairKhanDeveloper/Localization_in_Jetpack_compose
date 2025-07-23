@@ -10,4 +10,19 @@
     <string name="username" translatable="false">Username</string>
     <string name="email" translatable="false">Email</string>
     <string name="password" translatable="false">Password</string>
+
+    <string name="Localization_value">Localización</string>
+    <string name="Welcome_value">Bienvenido</string>
+    <string name="Please_select_your_preferred_language">Por favor seleccione su idioma preferido:</string>
+    <string name="Apply_Language">Aplicar idioma</string>
+    <string name="welcome_back">Bienvenido</string>
+    <string name="sign_in_continue">Inicie sesión para continuar</string>
+    <string name="email1">Correo electrónico</string>
+    <string name="password1">Contraseña</string>
+    <string name="forgot_password">¿Olvidó su contraseña?</string>
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="dont_have_account">¿No tienes una cuenta?</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="ok">OK</string>
+
 </resources>

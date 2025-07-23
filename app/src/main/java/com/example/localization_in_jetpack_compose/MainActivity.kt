@@ -54,7 +54,7 @@ class MainActivity : ComponentActivity() {
                         .padding(bottom = 50.dp, top = 50.dp),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    LanguageSelectionScreen()
+                    ProjectScreen()
                 }
             }
         }
@@ -206,7 +206,6 @@ fun LanguageSelectionScreen() {
 }
 
 
-
 fun saveLanguage(context: Context, langCode: String) {
     val prefs = context.getSharedPreferences("settings", Context.MODE_PRIVATE)
     prefs.edit().putString("language", langCode).apply()
@@ -227,3 +226,4 @@ fun setLocale(context: Context, langCode: String, recreate: Boolean = false) {
         (context as Activity).recreate()
     }
 }
+
